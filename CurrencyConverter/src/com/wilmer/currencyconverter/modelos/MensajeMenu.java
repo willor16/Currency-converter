@@ -16,6 +16,6 @@ public class MensajeMenu {
                 "\n**********************************************" +
                 "\nSI LA MONEDA QUE BUSCA NO ESTA EN ESTA LISTA PUEDE CONSULTAR LA SIGUIETNE DOCUMENTACION PARA VER EL CODIGO"+
                 "\nhttps://www.exchangerate-api.com/docs/supported-currencies"+
-                "\nSI EL CODIGO ESTA EN LA DOCUMENTACION ENTONCES LA CONVERSION ESTARA DISPONIBLE DE LO CONTRARIO LAMENTO INFORMALE QUE NOSERA POSIBLE";
+                "\nSI EL CODIGO ESTA EN LA DOCUMENTACION ENTONCES LA CONVERSION ESTARA DISPONIBLE DE LO CONTRARIO LAMENTO INFORMALE QUE NO SERA POSIBLE";
     }
 }
