@@ -1,0 +1,8 @@
+[
+  {
+    "nameCurrencyOne": "USD",
+    "nameCurrencyTwo": "GTQ",
+    "curency": 1.0,
+    "valueOf": 7.7591
+  }
+]
