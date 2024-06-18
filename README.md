@@ -6,6 +6,8 @@
 
 <p align="center"><img src="https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Fwillor16%2FCurrency-converter%2Ftree%2Fmaster%2FCurrencyConverter?style=social&amp;logo=github&amp;logoColor=azul" alt="shields"></p>
 
+
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Clone respository</p>
@@ -34,3 +36,13 @@ Technologies used in the project:
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT
+
+<h2>Project Screenshots:</h2>
+
+<img src="CurrencyConverter/src/com/wilmer/currencyconverter/Captura desde 2024-06-18 04-38-06.png" alt="project-screenshot" width="center" height="center/">
+
+<img src="CurrencyConverter/src/com/wilmer/currencyconverter/Captura desde 2024-06-18 04-39-20.png" alt="project-screenshot" width="center" height="center/">
+
+<img src="CurrencyConverter/src/com/wilmer/currencyconverter/Captura desde 2024-06-18 04-39-42.png" alt="project-screenshot" width="center" height="center/">
+
+<img src="CurrencyConverter/src/com/wilmer/currencyconverter/Captura desde 2024-06-18 04-40-29.png" alt="project-screenshot" width="center" height="center/">
